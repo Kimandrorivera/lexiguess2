@@ -1,0 +1,1502 @@
+[
+    {
+        "words": "FUNCTION",
+        "clue": "A reusable block of code that performs a specific task.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CLASS",
+        "clue": "A blueprint for creating objects in object-oriented programming.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONCURRENCY",
+        "clue": "Managing multiple tasks executed during overlapping time periods.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "VIRTUALIZATION",
+        "clue": "Creating virtual versions of hardware or systems to run multiple environments.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SCALABILITY",
+        "clue": "The ability of a system to handle increased workload or users.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EXTENSIBILITY",
+        "clue": "The ability to add new features without affecting existing functionality.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REDUNDANCY",
+        "clue": "Having backup components to ensure system reliability.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ARCHITECTURE",
+        "clue": "The overall structure and design of a system.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AGGREGATION",
+        "clue": "A relationship where one object contains another but both can exist independently.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ASYNCHRONOUS",
+        "clue": "Executing tasks without waiting for previous tasks to finish.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BENCHMARKING",
+        "clue": "Measuring system performance using tests or standards.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CYBERSECURITY",
+        "clue": "Protecting systems, networks, and data from attacks.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DISTRIBUTION",
+        "clue": "Spreading system components across multiple machines.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PROVISIONING",
+        "clue": "Preparing and supplying system resources like servers or storage.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SCHEDULING",
+        "clue": "Planning and managing task execution.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SEGMENTATION",
+        "clue": "Dividing data or systems into smaller sections.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SIMULATION",
+        "clue": "Creating a model to imitate real-world processes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EXPRESSION",
+        "clue": "Combines values and operators to produce a result.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "POLYMORPHISM",
+        "clue": "The ability of different objects to respond to the same method differently.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ENCAPSULATION",
+        "clue": "Bundling data and methods together while hiding internal details.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ABSTRACTION",
+        "clue": "Hiding complex implementation details and showing only necessary features.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INHERITANCE",
+        "clue": "A mechanism where a class derives properties from a parent class.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DECOMPOSITION",
+        "clue": "Breaking a complex problem into smaller manageable parts.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INTEROPERABILITY",
+        "clue": "The ability of systems to work together seamlessly.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MICROSERVICES",
+        "clue": "An architecture style that structures apps as small independent services.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONTAINERIZATION",
+        "clue": "Packaging software with its dependencies into isolated units.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ORCHESTRATION",
+        "clue": "Automating the management of containerized applications.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PARALLELISM",
+        "clue": "Executing multiple computations simultaneously.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SYNCHRONIZATION",
+        "clue": "Coordinating multiple processes to avoid conflicts.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DEADLOCK",
+        "clue": "A situation where processes are stuck waiting for each other indefinitely.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SEMAPHORE",
+        "clue": "A signaling mechanism used to control access to shared resources.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MUTEX",
+        "clue": "A lock that prevents multiple threads from accessing a resource simultaneously.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "THREADING",
+        "clue": "Running multiple threads of execution within a single process.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MULTIPROCESSING",
+        "clue": "Using multiple CPUs to perform computations simultaneously.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LIVELOCK",
+        "clue": "A state where processes keep changing but make no progress.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RACECONDITION",
+        "clue": "A flaw where output depends on the sequence of uncontrolled events.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ATOMICITY",
+        "clue": "Ensuring an operation completes fully or not at all.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONSISTENCY",
+        "clue": "Ensuring data remains valid and correct after transactions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ISOLATION",
+        "clue": "Ensuring concurrent transactions do not interfere with each other.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DURABILITY",
+        "clue": "Ensuring committed transactions persist even after system failure.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRANSACTION",
+        "clue": "A sequence of operations treated as a single logical unit.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "NORMALIZATION",
+        "clue": "Organizing a database to eliminate redundancy and improve integrity.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DENORMALIZATION",
+        "clue": "Adding redundancy to a database to improve read performance.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SHARDING",
+        "clue": "Horizontally partitioning data across multiple database instances.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REPLICATION",
+        "clue": "Copying data across multiple nodes for reliability and availability.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PARTITIONING",
+        "clue": "Splitting a large dataset into smaller, more manageable segments.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INDEXING",
+        "clue": "Creating data structures to speed up database query operations.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "QUERYOPTIMIZE",
+        "clue": "Improving the efficiency of database queries for faster results.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FOREIGNKEY",
+        "clue": "A database constraint linking a column to another table's primary key.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PRIMARYKEY",
+        "clue": "A unique identifier that distinguishes each record in a database table.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "STOREDPROC",
+        "clue": "A precompiled SQL routine stored and executed within a database.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRIGGER",
+        "clue": "A database procedure that fires automatically in response to an event.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "VIEWTABLE",
+        "clue": "A virtual table derived from a stored SQL query.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "JOINQUERY",
+        "clue": "An SQL operation that combines records from multiple tables.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SUBQUERY",
+        "clue": "A query nested inside another SQL query.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AGGREGATE",
+        "clue": "A function that performs calculations across a set of database rows.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RECURSION",
+        "clue": "A technique where a function solves a problem by calling itself.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MEMOIZATION",
+        "clue": "An optimization that stores results of expensive function calls.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DYNAMICPROG",
+        "clue": "Solving complex problems by breaking them into overlapping subproblems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GREEDYALGO",
+        "clue": "An algorithm that makes the locally optimal choice at each step.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DIVIDECONQ",
+        "clue": "Solving a problem by dividing it into smaller independent subproblems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BACKTRACKING",
+        "clue": "An algorithm that tries solutions and undoes them if they fail.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BRUTEFORCE",
+        "clue": "Trying every possible solution to find the correct answer.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TIMECOMPLX",
+        "clue": "A measure of how runtime grows as input size increases.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SPACECOMPLX",
+        "clue": "A measure of memory usage as input size increases.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BIGO",
+        "clue": "A notation describing the worst-case complexity of an algorithm.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOGARITHMIC",
+        "clue": "A complexity class where time grows proportionally to the log of input.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EXPONENTIAL",
+        "clue": "A complexity class where time doubles with each additional input.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LINEARTIME",
+        "clue": "An algorithm whose runtime grows directly with input size.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "QUADRATIC",
+        "clue": "A complexity class where runtime grows as the square of input size.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MERGESORT",
+        "clue": "A divide and conquer sorting algorithm that merges sorted halves.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "QUICKSORT",
+        "clue": "A sorting algorithm that partitions data around a pivot element.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HEAPSORT",
+        "clue": "A sorting algorithm that uses a binary heap data structure.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RADIXSORT",
+        "clue": "A non-comparison sorting algorithm that processes digits individually.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "COUNTINGSORT",
+        "clue": "A sorting algorithm that counts occurrences of each element.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DEPTHFIRST",
+        "clue": "A graph traversal that explores as far as possible before backtracking.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BREADTHFIRST",
+        "clue": "A graph traversal that explores all neighbors before going deeper.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DIJKSTRA",
+        "clue": "An algorithm that finds the shortest path in a weighted graph.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BELLMANFORD",
+        "clue": "A shortest path algorithm that handles negative edge weights.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ASTAR",
+        "clue": "A heuristic-based algorithm for finding optimal paths efficiently.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "KRUSKAL",
+        "clue": "An algorithm that builds a minimum spanning tree by adding edges.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PRIMSALGO",
+        "clue": "An algorithm that grows a minimum spanning tree from a starting node.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TOPOLOGICAL",
+        "clue": "An ordering of nodes in a directed graph with no cycles.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FLOODFILL",
+        "clue": "An algorithm that fills connected regions in a grid.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BINARYTREE",
+        "clue": "A tree data structure where each node has at most two children.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AVLTREE",
+        "clue": "A self-balancing binary search tree with height constraints.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REDBLACK",
+        "clue": "A self-balancing binary search tree using color properties.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BPLUSTREE",
+        "clue": "A balanced tree structure used widely in database indexing.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRIE",
+        "clue": "A tree structure used for efficient string retrieval.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HEAPSTRUCT",
+        "clue": "A tree-based structure satisfying parent-child ordering properties.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GRAPHSTRUCT",
+        "clue": "A data structure representing nodes connected by edges.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ADJACENCY",
+        "clue": "A matrix or list representing connections between graph nodes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "WEIGHTEDGRAPH",
+        "clue": "A graph where edges have associated numerical values.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DIRECTEDGRAPH",
+        "clue": "A graph where edges have a specific direction.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CYCLICGRAPH",
+        "clue": "A graph that contains at least one cycle.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ACYCLICGRAPH",
+        "clue": "A graph that contains no cycles.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HASHTABLE",
+        "clue": "A data structure that maps keys to values using a hash function.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "COLLISION",
+        "clue": "When two keys map to the same index in a hash table.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CHAINING",
+        "clue": "A collision resolution method using linked lists at each index.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PROBING",
+        "clue": "A collision resolution method that searches for the next open slot.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOADFACTOR",
+        "clue": "The ratio of elements to slots in a hash table.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REHASHING",
+        "clue": "Resizing and redistributing a hash table when load factor is high.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BLOOMFILTER",
+        "clue": "A probabilistic structure that tests if an element is in a set.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LRUCACHE",
+        "clue": "A cache that evicts the least recently used item when full.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LFUCACHE",
+        "clue": "A cache that evicts the least frequently used item when full.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GARBAGECOL",
+        "clue": "An automatic process of reclaiming unused memory in a program.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REFCOUNT",
+        "clue": "A memory management technique tracking the number of references.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MARKSWEEP",
+        "clue": "A garbage collection algorithm that marks reachable objects then clears the rest.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GENERATIONAL",
+        "clue": "A garbage collection strategy that separates objects by age.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HEAPMEM",
+        "clue": "A region of memory used for dynamic allocation during runtime.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "STACKMEM",
+        "clue": "A memory region that stores local variables and function call frames.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MEMORYLEAK",
+        "clue": "Unreleased memory that accumulates and reduces available resources.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BUFFEROVER",
+        "clue": "A vulnerability where data exceeds its allocated buffer boundary.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "STACKOVERFLOW",
+        "clue": "An error caused by excessive function call depth exhausting stack memory.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SEGFAULT",
+        "clue": "An error caused by accessing invalid memory locations.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "NULLPOINTER",
+        "clue": "An error caused by dereferencing a pointer that points to nothing.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DANGLING",
+        "clue": "A pointer that references memory that has already been freed.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SMARTPTR",
+        "clue": "A pointer that automatically manages the lifetime of an object.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RAII",
+        "clue": "A C++ pattern tying resource management to object lifetime.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MOVESEMANTICS",
+        "clue": "Transferring ownership of resources from one object to another.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LAMBDAEXPR",
+        "clue": "An anonymous function defined inline within an expression.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HIGHERORDER",
+        "clue": "A function that takes or returns another function as a value.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CURRYING",
+        "clue": "Transforming a function with multiple arguments into a series of functions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FUNCTOR",
+        "clue": "An object that can be called as if it were a function.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MONAD",
+        "clue": "A design pattern in functional programming for chaining operations.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "IMMUTABILITY",
+        "clue": "A principle where data cannot be modified after it is created.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SIDEEFFECT",
+        "clue": "Any change a function makes outside its own scope.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PUREFUNC",
+        "clue": "A function that always returns the same output for the same input.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REFERENTIAL",
+        "clue": "A property where an expression can be replaced by its value.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TYPEINFERE",
+        "clue": "Automatically deducing the type of an expression without explicit declaration.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GENERICS",
+        "clue": "A feature enabling code to operate on multiple types using parameters.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "COVARIANCE",
+        "clue": "A type relationship where a subtype can be used in place of a supertype.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONTRAVARIANCE",
+        "clue": "A type relationship where a supertype replaces a subtype in certain contexts.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REFLECTION",
+        "clue": "The ability of a program to inspect and modify its own structure at runtime.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "METAPROG",
+        "clue": "Writing programs that generate or manipulate other programs.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ANNOTATION",
+        "clue": "Metadata attached to code that provides information to compilers or tools.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BYTECODE",
+        "clue": "An intermediate representation of code executed by a virtual machine.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "JITCOMPILE",
+        "clue": "Compiling code at runtime just before it is executed.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AOTCOMPILE",
+        "clue": "Compiling code fully before runtime to improve startup performance.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INTERPRETER",
+        "clue": "A program that executes source code line by line without compiling.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRANSPILER",
+        "clue": "A tool that converts source code from one language to another.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LEXER",
+        "clue": "A component that breaks source code into tokens for parsing.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PARSER",
+        "clue": "A component that analyzes tokens and builds a syntax tree.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AST",
+        "clue": "A tree representing the syntactic structure of source code.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CODEGEN",
+        "clue": "The phase of compilation that produces target machine code.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "OPTIMIZER",
+        "clue": "A compiler phase that improves code efficiency before output.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LINKER",
+        "clue": "A tool that combines compiled object files into an executable.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOADER",
+        "clue": "A system component that loads executable code into memory.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ASSEMBLER",
+        "clue": "A tool that converts assembly language into machine code.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REGISTERALLOC",
+        "clue": "Assigning variables to CPU registers during compilation.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INLINING",
+        "clue": "Replacing a function call with the body of the function directly.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOOPUNROLL",
+        "clue": "An optimization that duplicates loop body to reduce loop overhead.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DEADCODE",
+        "clue": "Code that exists in a program but is never executed.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONSTANTFOLD",
+        "clue": "Evaluating constant expressions at compile time instead of runtime.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TAILCALL",
+        "clue": "An optimization where a recursive call is the last operation in a function.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "VECTORIZATION",
+        "clue": "Executing the same operation on multiple data points simultaneously.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SIMD",
+        "clue": "A CPU instruction set that processes multiple data in a single step.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PIPELINING",
+        "clue": "Overlapping instruction execution stages in a CPU.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CACHECOHER",
+        "clue": "Ensuring consistency of data stored in multiple cache locations.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CACHEHIT",
+        "clue": "Successfully finding requested data in the cache.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CACHEMISS",
+        "clue": "Failing to find requested data in the cache, requiring slower retrieval.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "VIRTUALPAGE",
+        "clue": "A fixed-size block in virtual memory mapping to physical memory.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PAGETABLE",
+        "clue": "A data structure mapping virtual addresses to physical memory.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TLB",
+        "clue": "A cache that speeds up virtual to physical address translation.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONTEXTSWITCH",
+        "clue": "Saving and restoring state when switching between processes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PREEMPTION",
+        "clue": "Interrupting a running process to allocate CPU to another.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PROCESSSTATE",
+        "clue": "The current condition of a process such as running or waiting.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "IPCMECH",
+        "clue": "A mechanism allowing processes to communicate and share data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SOCKETPROG",
+        "clue": "Programming network communication endpoints between systems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TCPIP",
+        "clue": "A suite of protocols governing internet data transmission.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HTTPPROTO",
+        "clue": "A protocol for transferring data between web clients and servers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RESTAPI",
+        "clue": "An architectural style for building networked web services.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GRAPHQLAPI",
+        "clue": "A query language for APIs that retrieves only required data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "WEBSOCKET",
+        "clue": "A protocol providing full-duplex communication over a single connection.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GRPCPROTO",
+        "clue": "A high-performance remote procedure call framework by Google.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MESSAGEQUEUE",
+        "clue": "A system that stores messages between producers and consumers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PUBSUB",
+        "clue": "A messaging pattern where publishers send to subscribed consumers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EVENTSTREAM",
+        "clue": "A continuous flow of events processed in real time.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "KAFKASTREAM",
+        "clue": "A distributed platform for building real-time data pipelines.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOADBALANCE",
+        "clue": "Distributing incoming requests across multiple servers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REVERSEPROXY",
+        "clue": "A server that forwards client requests to backend servers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "APIGATEWAY",
+        "clue": "An entry point that routes and manages API requests.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RATELIMIT",
+        "clue": "Controlling how many requests a client can make in a time period.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CIRCUITBREAK",
+        "clue": "A pattern that stops calls to a failing service to prevent cascading errors.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SERVICEMSSH",
+        "clue": "A layer that handles communication between microservices.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SERVERLESS",
+        "clue": "A cloud model where code runs without managing server infrastructure.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CLOUDNATIVE",
+        "clue": "Designing applications specifically to run in cloud environments.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DEVOPS",
+        "clue": "A practice combining development and operations for continuous delivery.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CICDPIPE",
+        "clue": "An automated pipeline for building, testing, and deploying code.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INFRACODE",
+        "clue": "Managing infrastructure using configuration files instead of manual setup.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "KUBERNETES",
+        "clue": "An open-source system for automating container deployment and scaling.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DOCKER",
+        "clue": "A platform for building and running containerized applications.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HELM",
+        "clue": "A package manager for deploying applications on Kubernetes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TERRAFORM",
+        "clue": "A tool for provisioning cloud infrastructure using declarative config.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ANSIBLE",
+        "clue": "An automation tool for configuration management and deployment.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GITWORKFLOW",
+        "clue": "A defined process for using Git in collaborative development.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PULLREQUEST",
+        "clue": "A request to merge code changes into a main branch for review.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CODEREVIEW",
+        "clue": "Examining code written by peers to ensure quality and correctness.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "STATICANAL",
+        "clue": "Analyzing code for errors without executing it.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DYNAMICANAL",
+        "clue": "Analyzing program behavior by executing it with test inputs.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FUZZING",
+        "clue": "Testing software by feeding it random or unexpected inputs.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PENTEST",
+        "clue": "Simulating attacks on a system to find security vulnerabilities.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SQLINJECTION",
+        "clue": "An attack that inserts malicious SQL into a database query.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "XSSATTACK",
+        "clue": "Injecting malicious scripts into web pages viewed by other users.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CSRFATTACK",
+        "clue": "Tricking a user into submitting unauthorized requests on their behalf.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "OAUTHFLOW",
+        "clue": "A protocol for granting third-party access without sharing credentials.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "JWTTOKEN",
+        "clue": "A compact token used for securely transmitting authentication claims.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PUBLICKEY",
+        "clue": "A cryptographic key shared openly for encrypting or verifying data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PRIVATEKEY",
+        "clue": "A cryptographic key kept secret for decrypting or signing data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ASYMMETRIC",
+        "clue": "Encryption using a pair of public and private keys.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SYMMETRIC",
+        "clue": "Encryption using the same key for both encryption and decryption.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HASHING",
+        "clue": "Converting data into a fixed-length value using a hash function.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SALTING",
+        "clue": "Adding random data to input before hashing to prevent attacks.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TLSPROTOCOL",
+        "clue": "A cryptographic protocol that secures data transmitted over networks.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CERTIFICATE",
+        "clue": "A digital document that verifies the identity of an entity.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FIREWALL",
+        "clue": "A system that monitors and controls incoming and outgoing network traffic.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "INTRUSION",
+        "clue": "Unauthorized access or activity detected within a network.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ZEROTRUST",
+        "clue": "A security model that assumes no user or device is inherently trusted.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RBAC",
+        "clue": "A security model that restricts access based on user roles.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ABAC",
+        "clue": "A security model that grants access based on user attributes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SANDBOXING",
+        "clue": "Isolating a program to limit its access to system resources.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "OBFUSCATION",
+        "clue": "Making code difficult to understand to hide its logic.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "STEGANOG",
+        "clue": "Hiding secret data within ordinary files or images.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "MACHLEARN",
+        "clue": "A field of AI where systems learn patterns from data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "NEURALNET",
+        "clue": "A computing model inspired by the structure of biological brains.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DEEPLEARN",
+        "clue": "Machine learning using neural networks with many layers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SUPERVISED",
+        "clue": "A learning approach trained on labeled input-output data pairs.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "UNSUPERVISED",
+        "clue": "A learning approach that finds patterns in unlabeled data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REINFORCEMENT",
+        "clue": "A learning approach where agents learn by receiving rewards or penalties.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "OVERFITTING",
+        "clue": "When a model learns training data too closely and fails to generalize.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "UNDERFITTING",
+        "clue": "When a model is too simple to capture the underlying patterns in data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REGULARIZE",
+        "clue": "A technique that reduces overfitting by penalizing model complexity.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GRADIENT",
+        "clue": "The direction and rate of change used in optimization algorithms.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BACKPROP",
+        "clue": "An algorithm that propagates errors backward to update neural network weights.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ACTIVATION",
+        "clue": "A function that determines whether a neuron should fire.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONVOLUTION",
+        "clue": "A mathematical operation used in image-processing neural networks.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRANSFORMER",
+        "clue": "A neural network architecture that uses attention mechanisms.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ATTENTION",
+        "clue": "A mechanism that weighs the importance of different input parts.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EMBEDDING",
+        "clue": "A dense vector representation of discrete data like words.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TOKENIZATION",
+        "clue": "Splitting text into smaller units for processing by a model.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FINETUNING",
+        "clue": "Adapting a pretrained model to a specific task with additional training.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FEATEXTRACT",
+        "clue": "Identifying and selecting relevant features from raw data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DIMREDUCE",
+        "clue": "Reducing the number of variables while preserving important information.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CLUSTERING",
+        "clue": "Grouping similar data points together without predefined labels.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CLASSIFICATION",
+        "clue": "Assigning data points to predefined categories using a model.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "REGRESSION",
+        "clue": "Predicting a continuous output value from input features.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CROSSVALIDATE",
+        "clue": "Evaluating a model by rotating training and testing subsets.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONFMATRIX",
+        "clue": "A table showing predicted versus actual classification results.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PRECISION",
+        "clue": "The fraction of positive predictions that are actually correct.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RECALL",
+        "clue": "The fraction of actual positives correctly identified by a model.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "FSCORE",
+        "clue": "A metric balancing precision and recall for model evaluation.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ROCAUC",
+        "clue": "A metric measuring a classifier's ability across all thresholds.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DATAAUGMENT",
+        "clue": "Artificially expanding training data through transformations.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TRANSFERLEARN",
+        "clue": "Applying knowledge from one trained model to a different problem.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "ENSEMBLE",
+        "clue": "Combining multiple models to produce a stronger prediction.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BAGGING",
+        "clue": "An ensemble method training models on random data subsets.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BOOSTING",
+        "clue": "An ensemble method that sequentially corrects errors of prior models.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RANDOMFOREST",
+        "clue": "An ensemble of decision trees trained on random subsets.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DECISIONTREE",
+        "clue": "A model that splits data based on feature conditions in a tree form.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SVM",
+        "clue": "A model that finds the optimal boundary separating data classes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "KNNALGO",
+        "clue": "A classifier that assigns labels based on nearest training examples.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "NAIVEBAYES",
+        "clue": "A probabilistic classifier based on Bayes theorem with independence assumptions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LOGREGRESS",
+        "clue": "A model that predicts the probability of a binary outcome.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LINREGRESS",
+        "clue": "A model that predicts a continuous value from linear relationships.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "KMEANS",
+        "clue": "A clustering algorithm that groups data into k distinct clusters.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DBSCAN",
+        "clue": "A density-based clustering algorithm that identifies noise points.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PCA",
+        "clue": "A technique that reduces dimensions by finding principal components.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AUTOENCODER",
+        "clue": "A neural network trained to compress and reconstruct its input.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GAN",
+        "clue": "A model where two networks compete to generate realistic data.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DIFFUSIONMOD",
+        "clue": "A generative model that learns to reverse a noise-adding process.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LLMMODEL",
+        "clue": "A large neural network trained to understand and generate language.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PROMPTENG",
+        "clue": "Crafting inputs to guide AI models toward desired outputs.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RAGPIPELINE",
+        "clue": "A system combining retrieval and generation for informed AI responses.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "VECTORDB",
+        "clue": "A database optimized for storing and querying vector embeddings.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SEMANTICSRCH",
+        "clue": "Searching based on meaning rather than exact keyword matches.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HALLUCINAT",
+        "clue": "When an AI model generates false information confidently.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "GROUNDTRUTH",
+        "clue": "The actual correct answer used to evaluate model predictions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BENCHMARK",
+        "clue": "A standard test used to compare performance across systems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "LATENCY",
+        "clue": "The time delay between a request and the system's response.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "THROUGHPUT",
+        "clue": "The number of operations a system can handle per unit of time.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PROFILING",
+        "clue": "Measuring where a program spends time or uses memory.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HOTPATH",
+        "clue": "The most frequently executed code path in a program.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "BOTTLENECK",
+        "clue": "A point in a system that limits overall performance.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AMDAHLS",
+        "clue": "A law describing the speedup limit of parallelizing a program.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "AVAILABILITY",
+        "clue": "A guarantee that a system always responds to requests.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CAPTHEOREM",
+        "clue": "A theorem stating a distributed system can only guarantee two of three properties.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EVENTUALCONS",
+        "clue": "A consistency model where all nodes converge to the same value over time.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CONSENSUS",
+        "clue": "An agreement protocol used by distributed nodes on a single value.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "RAFTPROTO",
+        "clue": "A consensus algorithm designed to be easier to understand than Paxos.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "PAXOS",
+        "clue": "A consensus algorithm for achieving agreement in distributed systems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TWOPHASELK",
+        "clue": "A locking protocol ensuring serializability in database transactions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "TWOPHASECOM",
+        "clue": "A protocol coordinating commit or rollback across distributed nodes.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SAGA",
+        "clue": "A distributed transaction pattern using compensating transactions.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CQRS",
+        "clue": "A pattern that separates read and write operations in a system.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "EVENTSOURCE",
+        "clue": "Storing state as a sequence of events rather than current values.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DOMAINDRIVEN",
+        "clue": "A design approach centered around the core business domain.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "HEXAGONAL",
+        "clue": "An architecture that isolates application logic from external systems.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "CLEANARCH",
+        "clue": "An architecture emphasizing separation of concerns across layers.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "SOLIDPRINC",
+        "clue": "Five design principles for writing maintainable object-oriented code.",
+        "difficulty": "HARD"
+    },
+    {
+        "words": "DRYPRINC",
+        "clue": "A principle stating that code should not repeat the same logic.",
+        "difficulty": "HARD"
+    }
+]

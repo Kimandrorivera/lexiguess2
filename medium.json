@@ -1,0 +1,1003 @@
+[
+    {
+        "words": "ALGORITHM",
+        "clue": "A step-by-step procedure for solving a problem.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OBJECT",
+        "clue": "A data structure that contains key-value pairs.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SYNTAX",
+        "clue": "The set of rules that defines the structure of a programming language.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STACK",
+        "clue": "A data structure that follows Last In, First Out (LIFO) principle.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "QUEUE",
+        "clue": "A data structure that follows First In, First Out (FIFO) principle.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ENCAPSUL",
+        "clue": "A concept that hides internal data and restricts direct access.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ABSTRACTION",
+        "clue": "A concept that shows only essential features and hides implementation details.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INHERITANCE",
+        "clue": "A feature where a class acquires properties from another class.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CONSTRUCTOR",
+        "clue": "A special method used to initialize objects when created.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OVERLOAD",
+        "clue": "A feature where methods share the same name but different parameters.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OVERRIDE",
+        "clue": "A feature where a subclass changes the behavior of a parent method.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INTERFACE",
+        "clue": "A structure that defines methods without implementation.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ARRAYLIST",
+        "clue": "A dynamic structure used to store multiple elements.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LINKEDLIST",
+        "clue": "A structure where elements are connected using nodes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STACKTRACE",
+        "clue": "A report showing function call history during execution.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "QUEUEING",
+        "clue": "A process that follows first-in-first-out order.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRAVERSAL",
+        "clue": "The process of visiting each element in a structure.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BINARYSEARCH",
+        "clue": "A fast search method that divides data into halves.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BUBBLESORT",
+        "clue": "A sorting method that swaps adjacent elements repeatedly.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SELECTIONSORT",
+        "clue": "A sorting method that selects the smallest element repeatedly.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INSERTIONSORT",
+        "clue": "A sorting method that builds a sorted list step by step.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DATASTRUCT",
+        "clue": "A way of organizing and storing data efficiently.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "HASHING",
+        "clue": "A technique used to map data to fixed values.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COLLISION",
+        "clue": "A situation where two inputs produce the same hash value.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INDEXING",
+        "clue": "A method used to quickly access stored data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "POINTER",
+        "clue": "A variable that stores memory address of another variable.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REFERENCE",
+        "clue": "A link used to access an object in memory.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OBJECTREF",
+        "clue": "A reference pointing to an object instance.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STATICVAR",
+        "clue": "A variable shared among all instances of a class.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INSTANCEVAR",
+        "clue": "A variable that belongs to a specific object.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OPTIMIZATION",
+        "clue": "A process of improving program performance.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "EXCEPTIONHAND",
+        "clue": "A mechanism used to handle runtime errors.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BASECASE",
+        "clue": "A condition that stops recursive calls.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ALGORITHMIC",
+        "clue": "A structured approach to problem solving.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FLOWCONTROL",
+        "clue": "The order in which instructions are executed.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MULTICLASS",
+        "clue": "A system involving multiple interacting classes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OBJECTREL",
+        "clue": "A relationship between objects in a program.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "METHODOVER",
+        "clue": "A concept where methods have variations in behavior.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CLASSBASED",
+        "clue": "A programming style based on classes and objects.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DATAPROCESS",
+        "clue": "A system for handling and transforming data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "RUNTIMEENV",
+        "clue": "The environment where a program executes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COMPILATION",
+        "clue": "The process of converting code into machine form.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "EXCEPTION",
+        "clue": "An event that disrupts normal program flow.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COMPILER",
+        "clue": "Translates code into machine language.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MONITORING",
+        "clue": "Watching system activity in real time.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SANITIZER",
+        "clue": "Cleans and validates user input.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "GENERATOR",
+        "clue": "Produces data or values on demand.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OPTIMIZER",
+        "clue": "Improves the performance of a program.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FULLSTACK",
+        "clue": "Covers both frontend and backend development.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FRAMEWORK",
+        "clue": "A structure that provides a foundation for software.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ENDPOINT",
+        "clue": "An API access point.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PROTOCOL",
+        "clue": "A set of rules for communication.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "VERSIONING",
+        "clue": "Tracking changes in code over time.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BRANCHING",
+        "clue": "Creating separate versions of code.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MERGING",
+        "clue": "Combining different code changes together.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DEPLOYING",
+        "clue": "Releasing an application to users.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ENCRYPTION",
+        "clue": "Protecting data by converting it to a secure format.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DECRYPTION",
+        "clue": "Unlocking encrypted data back to its original form.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "VALIDATION",
+        "clue": "Checking that data meets required conditions.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STACKDATA",
+        "clue": "A LIFO data structure.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BUILDING",
+        "clue": "Compiling a project into a runnable form.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DATAMODEL",
+        "clue": "A design structure for organizing data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "APPLOGIC",
+        "clue": "The rules and behavior of a program.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ROUTING",
+        "clue": "Directing requests to the correct handler.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SESSIONID",
+        "clue": "A unique identifier for a user session.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CACHEDATA",
+        "clue": "Stored data for quick access.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "QUERYDATA",
+        "clue": "Requesting specific data from a database.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STRUCTURE",
+        "clue": "A custom data type grouping related fields.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "HASHTABLE",
+        "clue": "A data structure using key-value pairs.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRYCATCH",
+        "clue": "A block used to handle runtime errors.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FINALLY",
+        "clue": "A block that always executes after try-catch.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BREAKPOINT",
+        "clue": "A marker that pauses execution during debugging.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LOCALIZATION",
+        "clue": "Adapting software to a specific language or region.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LOGICALNOT",
+        "clue": "A logical operation that reverses a condition.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "MANAGEMENT",
+        "clue": "Organizing and controlling system resources effectively.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MANIPULATION",
+        "clue": "Modifying or changing data within a program.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MEASUREMENT",
+        "clue": "Evaluating system performance or metrics.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "RECOGNITION",
+        "clue": "Identifying patterns or inputs within data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REGISTRATION",
+        "clue": "Recording or storing information in a system.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REPRESENTATION",
+        "clue": "How data is displayed or structured.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "RESOLUTION",
+        "clue": "Solving a problem or determining a result.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "RESTORATION",
+        "clue": "Recovering lost or damaged data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "RETRIEVAL",
+        "clue": "Accessing stored data from a system.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRANSFORMATION",
+        "clue": "Changing data from one format or structure to another.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRANSLATION",
+        "clue": "Converting code from one language to another.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRANSMISSION",
+        "clue": "Sending data from one system to another.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "VERIFICATION",
+        "clue": "Ensuring the system works as intended.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "METHODCALL",
+        "clue": "The process of executing a function or method.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "VISUALIZATION",
+        "clue": "Presenting data in graphical or visual form.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INITIALIZATION",
+        "clue": "Assigning an initial value to a variable.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RETURNVALUE",
+        "clue": "The value produced after a function execution.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DIRECTORY",
+        "clue": "A folder that stores files.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LINEARSEARCH",
+        "clue": "A search method that checks elements one by one.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOGICALAND",
+        "clue": "A logical operation requiring both conditions true.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PARAMETER",
+        "clue": "An input defined inside a function.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CLONING",
+        "clue": "Copying a repository to a local machine.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "METHODDEF",
+        "clue": "A definition that describes a method structure.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOGICALOR",
+        "clue": "A logical operation requiring one condition true.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOGOUTPUT",
+        "clue": "Recorded output from a running system.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CLASSDEF",
+        "clue": "A definition that describes a class structure.",
+        "difficulty": "EASY"
+    },
+    
+    {
+        "words": "FRONTEND",
+        "clue": "The user interface part of an application.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "BACKEND",
+        "clue": "The server-side processing of an application.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "OPERAND",
+        "clue": "A value used in an operation.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RECURSION",
+        "clue": "A function that calls itself to solve a problem.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "POLYMORPHISM",
+        "clue": "The ability of objects to take many forms.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ITERATION",
+        "clue": "Repeating a block of code using a loop.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DEADLOCK",
+        "clue": "A state where two processes block each other indefinitely.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SEMAPHORE",
+        "clue": "A signaling mechanism for controlling access to resources.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "THREADING",
+        "clue": "Running multiple tasks concurrently within a program.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CONCURRENCY",
+        "clue": "Multiple tasks making progress at the same time.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SINGLETON",
+        "clue": "A design pattern that restricts a class to one instance.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DECORATOR",
+        "clue": "A pattern that adds behavior to an object dynamically.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OBSERVER",
+        "clue": "A pattern where objects react to state changes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FACTORY",
+        "clue": "A design pattern that creates objects without specifying their class.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ADAPTER",
+        "clue": "A pattern that allows incompatible interfaces to work together.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STRATEGY",
+        "clue": "A pattern that defines a family of interchangeable algorithms.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ITERATOR",
+        "clue": "An object used to traverse elements in a collection.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CALLBACK",
+        "clue": "A function passed as an argument to another function.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CLOSURE",
+        "clue": "A function that retains access to its outer scope.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PROMISES",
+        "clue": "Objects representing eventual completion of async operations.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ASYNCAWAIT",
+        "clue": "Syntax for handling asynchronous code more cleanly.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MIDDLEWARE",
+        "clue": "Software that connects different systems or processes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REFACTORING",
+        "clue": "Improving code structure without changing its behavior.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DEBUGGING",
+        "clue": "The process of finding and fixing errors in code.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MODULARITY",
+        "clue": "Designing a system as independent, interchangeable units.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "NAMESPACE",
+        "clue": "A container that groups related identifiers to avoid conflicts.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SCOPING",
+        "clue": "Defining where a variable is accessible in code.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "HOISTING",
+        "clue": "Moving declarations to the top of their scope.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MEMOIZATION",
+        "clue": "Caching function results to avoid repeated computation.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BITMASKING",
+        "clue": "Using bits to represent and manipulate sets of flags.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TYPECASTING",
+        "clue": "Converting a value from one data type to another.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TYPECHECK",
+        "clue": "Verifying that values match their expected data types.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "IMMUTABLE",
+        "clue": "A value or object that cannot be changed after creation.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MUTABLEOBJ",
+        "clue": "An object whose state can be modified after creation.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PRIMITIVE",
+        "clue": "A basic data type not built from other types.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "HEAPMEM",
+        "clue": "Memory used for dynamic allocation at runtime.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STACKMEM",
+        "clue": "Memory used to store function calls and local variables.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "GARBAGECOL",
+        "clue": "Automatic memory cleanup of unused objects.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LEAKMEM",
+        "clue": "Memory that is allocated but never released.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DEPENDENCY",
+        "clue": "A module or library required by another component.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INJECTION",
+        "clue": "Passing dependencies into a component externally.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PIPELINE",
+        "clue": "A sequence of processing stages connected together.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "EVENTLOOP",
+        "clue": "A mechanism that handles async events in sequence.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DELEGATION",
+        "clue": "Assigning responsibility to another object or method.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COMPOSITION",
+        "clue": "Building complex objects by combining simpler ones.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COUPLING",
+        "clue": "The degree of dependency between software components.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COHESION",
+        "clue": "How closely related the responsibilities of a module are.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ASSERTION",
+        "clue": "A statement that checks a condition is true during testing.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "UNITTEST",
+        "clue": "A test that validates a single unit of code.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MOCKOBJECT",
+        "clue": "A simulated object used in place of a real one during testing.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TESTCASE",
+        "clue": "A set of conditions used to verify expected behavior.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REGRESSION",
+        "clue": "A bug reintroduced after previously being fixed.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ANNOTATION",
+        "clue": "Metadata added to code for documentation or configuration.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "GENERICS",
+        "clue": "Code that works with any data type using type parameters.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TEMPLATE",
+        "clue": "A reusable code structure with placeholder types.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SERIALIZATION",
+        "clue": "Converting an object into a storable or transmittable format.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "DESERIALIZATION",
+        "clue": "Reconstructing an object from its serialized format.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MARSHALING",
+        "clue": "Preparing data for transmission between systems.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PARSING",
+        "clue": "Analyzing and converting a string into structured data.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TOKENIZING",
+        "clue": "Splitting input into meaningful units for processing.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LEXICAL",
+        "clue": "Relating to the tokens or symbols in source code.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BYTECODE",
+        "clue": "An intermediate code executed by a virtual machine.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "VIRTUAL",
+        "clue": "A method that can be overridden in a subclass.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ABSTRACT",
+        "clue": "A class that cannot be instantiated directly.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ACCESSOR",
+        "clue": "A method used to read the value of a private field.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "MUTATOR",
+        "clue": "A method used to modify the value of a private field.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FINALCLASS",
+        "clue": "A class that cannot be extended by subclasses.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ENUMTYPE",
+        "clue": "A type consisting of a set of named constants.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CONSTANT",
+        "clue": "A value that does not change during program execution.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BITSHIFT",
+        "clue": "Moving bits left or right to multiply or divide values.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "OVERFLOW",
+        "clue": "When a value exceeds the maximum limit of its data type.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "UNDERFLOW",
+        "clue": "When a value falls below the minimum limit of its type.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "NARROWING",
+        "clue": "Converting a larger data type into a smaller one.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "WIDENING",
+        "clue": "Converting a smaller data type into a larger one.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STATEMACH",
+        "clue": "A model that transitions between defined states.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "EVENTDRIVEN",
+        "clue": "A programming model where actions respond to events.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "INTERRUPT",
+        "clue": "A signal that temporarily halts normal program execution.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "POLLING",
+        "clue": "Repeatedly checking a condition or resource for changes.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "BUFFERING",
+        "clue": "Temporarily storing data before it is processed.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STREAMING",
+        "clue": "Transmitting data continuously in a flow.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PAGING",
+        "clue": "Dividing memory into fixed-size blocks for management.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SWAPPING",
+        "clue": "Moving processes between main memory and storage.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SCHEDULING",
+        "clue": "Deciding the order in which processes are executed.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "LOADBALANCE",
+        "clue": "Distributing workload evenly across multiple resources.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SCALABILITY",
+        "clue": "A system's ability to handle increased load effectively.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "REPLICATION",
+        "clue": "Copying data across multiple systems for reliability.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PARTITIONING",
+        "clue": "Dividing a database into smaller manageable pieces.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "SHARDING",
+        "clue": "Splitting a database horizontally across servers.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "CACHING",
+        "clue": "Storing frequently used data for faster access.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "ROLLBACK",
+        "clue": "Reverting a database to a previous state.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "COMMIT",
+        "clue": "Saving a transaction permanently to the database.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRANSACTION",
+        "clue": "A sequence of database operations treated as one unit.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "NORMALIZATION",
+        "clue": "Organizing a database to reduce data redundancy.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "FOREIGNKEY",
+        "clue": "A field that links one table to another in a database.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "PRIMARYKEY",
+        "clue": "A unique identifier for a record in a table.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "JOINQUERY",
+        "clue": "A query that combines rows from two or more tables.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "AGGREGATE",
+        "clue": "A function that computes a result from multiple rows.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "VIEWTABLE",
+        "clue": "A virtual table based on a saved SQL query.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "STOREDPROC",
+        "clue": "A precompiled set of SQL statements saved in a database.",
+        "difficulty": "MEDIUM"
+    },
+    {
+        "words": "TRIGGER",
+        "clue": "An automatic database action fired by an event.",
+        "difficulty": "MEDIUM"
+    }
+]

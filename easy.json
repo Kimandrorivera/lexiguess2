@@ -1,0 +1,502 @@
+[    
+    {
+        "words": "STRING",
+        "clue": "A sequence of characters used to represent text.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "INTEGER",
+        "clue": "Stores whole numbers without decimal points.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "BOOLEAN",
+        "clue": "Stores only true or false values.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "VOID",
+        "clue": "A return type indicating a function returns nothing.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "TYPE",
+        "clue": "A classification specifying the kind of value a variable holds.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "VARIABLE",
+        "clue": "Used to store a value that can change during program execution.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOOP",
+        "clue": "Repeats a block of code as long as a condition is true.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CONSTANT",
+        "clue": "Stores a value that cannot be changed once assigned.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RETURN",
+        "clue": "Sends a value back from a function.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FLOAT",
+        "clue": "Stores numbers that contain decimal values.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ARRAY",
+        "clue": "Stores multiple values in a single variable using indexes.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "INPUT",
+        "clue": "Refers to data entered by the user into a program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "OUTPUT",
+        "clue": "The result shown after the program processes data.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CHAR",
+        "clue": "Represents a single character such as a letter.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DOUBLE",
+        "clue": "Stores larger decimal numbers with higher precision.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PRINT",
+        "clue": "Displays output on the screen.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "SCAN",
+        "clue": "Reads input from the user.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "NULL",
+        "clue": "Means a variable has no value assigned.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "TRUE",
+        "clue": "Represents a correct or valid condition in programming.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FALSE",
+        "clue": "Represents an incorrect or invalid condition.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "VALUE",
+        "clue": "The actual data stored in a variable.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DATA",
+        "clue": "Refers to raw information processed by a program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CODE",
+        "clue": "A set of instructions written for a computer.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DEBUG",
+        "clue": "The process of finding and fixing errors in code.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ERROR",
+        "clue": "Occurs when something goes wrong in the program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOGIC",
+        "clue": "The reasoning used to create correct program flow.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PROGRAM",
+        "clue": "A collection of instructions that perform a task.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "METHOD",
+        "clue": "A function inside a class.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "INDEX",
+        "clue": "The position of an element in an array.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LENGTH",
+        "clue": "Measures the number of elements or characters.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "COUNT",
+        "clue": "Tracks how many items are in a collection.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "BREAK",
+        "clue": "Stops a loop immediately.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CONTINUE",
+        "clue": "Skips the current loop iteration.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "MAIN",
+        "clue": "The starting point of a program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CALL",
+        "clue": "Executes a function or method.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "TEST",
+        "clue": "Checks if a program works correctly.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "READ",
+        "clue": "Retrieves data from a file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "WRITE",
+        "clue": "Stores data into a file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RUNTIME",
+        "clue": "The period when the program is executing.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "MEMORY",
+        "clue": "Stores data temporarily while a program runs.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "SWITCH",
+        "clue": "Selects one option from multiple cases.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CASE",
+        "clue": "Defines a specific condition in a switch statement.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DEFAULT",
+        "clue": "Runs when no case matches in a switch statement.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ELSE",
+        "clue": "Provides an alternative block of code when the condition is false.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CONDITION",
+        "clue": "A rule that controls program decisions.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "COUNTER",
+        "clue": "Tracks how many times a loop runs.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "SUM",
+        "clue": "The total result of added values.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "AVERAGE",
+        "clue": "The sum divided by the number of values.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "EQUAL",
+        "clue": "Checks if two values are the same.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "GREATER",
+        "clue": "Checks if one value is larger than another.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LESS",
+        "clue": "Checks if one value is smaller than another.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "MODULO",
+        "clue": "Returns the remainder of a division.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "OPERATOR",
+        "clue": "Performs mathematical or logical operations.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ADD",
+        "clue": "Combines two values together.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DIVIDE",
+        "clue": "Splits a number into equal parts.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "MULTIPLY",
+        "clue": "Performs repeated addition of a number.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "INCREMENT",
+        "clue": "Increases a value by one.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DECREMENT",
+        "clue": "Decreases a value by one.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "COMPARE",
+        "clue": "Checks differences between two values.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DECISION",
+        "clue": "Determines which code block will run.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "STATEMENT",
+        "clue": "A single instruction in a program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FLOWCHART",
+        "clue": "A diagram that shows program logic steps.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "USER",
+        "clue": "Interacts with the program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PATH",
+        "clue": "Shows the location of a file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "OPEN",
+        "clue": "Allows access to a file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CLOSE",
+        "clue": "Ends access to a file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FILE",
+        "clue": "Stores data permanently in a computer.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RUN",
+        "clue": "Executes the program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "START",
+        "clue": "Where program execution begins.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "STOP",
+        "clue": "Ends program execution.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "NAME",
+        "clue": "Identifies a variable or file.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PASS",
+        "clue": "Used to verify user access.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PSEUDOCODE",
+        "clue": "A simplified way of writing program logic.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DECLARATION",
+        "clue": "Defining a variable before using it.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ASSIGNMENT",
+        "clue": "Gives a value to a variable.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "INSTRUCTION",
+        "clue": "A command given to a computer to perform a specific operation.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "NAVIGATION",
+        "clue": "Moving through data or user interfaces.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "SORTING",
+        "clue": "A process of arranging data in a specific order.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "EXECUTION",
+        "clue": "The process of running a program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "COMPARISON",
+        "clue": "A process of checking values for equality or difference.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FUNCTION",
+        "clue": "A block of code that performs a task.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DEBUGGING",
+        "clue": "Finding and fixing errors in code.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ARGUMENT",
+        "clue": "A value passed to a function.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DATATYPE",
+        "clue": "The type of data a variable holds.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LOOPING",
+        "clue": "Repeating a block of code.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "ITERATION",
+        "clue": "One repeat of a loop.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "KEYWORDS",
+        "clue": "Reserved words in a programming language.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "COMMENTS",
+        "clue": "Notes in code that are ignored by the program.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FORMATTER",
+        "clue": "Changes the appearance of data.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CONVERTER",
+        "clue": "Changes data from one type to another.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "DATABASE",
+        "clue": "An organized collection of data.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "FILTERING",
+        "clue": "Selecting specific data based on criteria.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "LIBRARY",
+        "clue": "A collection of reusable code.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PULLING",
+        "clue": "Getting the latest updates from a repository.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "PUSHING",
+        "clue": "Sending local changes to a repository.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "TESTING",
+        "clue": "Checking a program for correctness.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "RESPONSE",
+        "clue": "A reply sent from a server.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "CONTINUE",
+        "clue": "Skips the current iteration and moves to the next loop cycle.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "BINARY",
+        "clue": "A number system that uses only 0 and 1.",
+        "difficulty": "EASY"
+    },
+    {
+        "words": "SCRIPT",
+        "clue": "A file containing a set of instructions for a computer to run.",
+        "difficulty": "EASY"
+    }
+]
